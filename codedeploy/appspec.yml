@@ -1,0 +1,6 @@
+version: 0.0
+os: linux
+files:
+  - source: /ams.war
+    destination: /usr/local/apache-tomcat-8.0.24/webapps/
+                 
