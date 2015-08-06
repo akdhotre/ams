@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /index1.jsp
-    destination: /usr/local/apache-tomcat-8.0.24/webapps/ams/
+  - source: /aws.war
+    destination: /usr/local/apache-tomcat-8.0.24/webapps/
