@@ -15,7 +15,6 @@ public class TestApp {
 	@Test
 	public void test(){
 		Assert.assertTrue(false);
-
 	}
 
 }
